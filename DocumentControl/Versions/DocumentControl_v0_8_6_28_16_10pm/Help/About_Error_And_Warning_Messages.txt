@@ -1,0 +1,7 @@
+About Error And Warning Messages
+
+ERROR Messages: Are meant to signify a problem during DocumentControl operation. Unless otherwise stated by the script that generates the error, an error message will halt DocumentControl and the operation being performed should be considered to have failed. It is reccomended to search for a solution, contact your administrator, and then contact technical support before continuing to run DocumentControl while it produces error messages.
+
+!!! WARNING !!! Messages: Are meant to signify a security problem during DocumentControl operation. It is important to note that this message WILL NOT ALWAYS halt the DocumentControl application. Sometimes this message is displayed to warn the user of a potentially infected file, in which case DocumentControl will continue to function while displaying the "!!! WARNING !!!"" message to warn the user which files require attention.
+
+IMPORTANT NOTE: The 4-6 digit alpha-numeric value directly AFTER the "ERROR" or "!!! WARNING !!!"" messages are a unique identifier for the error message that generated the error. You can use this identifier when communicating with technical support or when searching for help.

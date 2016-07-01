@@ -1,0 +1,9 @@
+How To Submit New Documents To DocumentControl
+
+DocumentControl will scan the "Input Directory" for new files before every control operation. Files can be added to the input directory directly through Windows Explorer (via click/drag or copy/paste) or through the DocumentControl application itself via the "Submit Documents" button in the "Control" menu. 
+
+To submit a new document using the DocumentControl application, navigate to the "Control" menu and click the "Submit Documents" button. On the "Submit Documents" window that appears click the "Choose files" button and use the "CTRL" key or click-and-drag to select the multiple files you'd like to submit. Once you have selected the files you'd like to upload, select a destination for the new documents by using the drop-down box. Documents submitted to the "Pending Documents" folder will be directly processed the next time DocumentControl processes the "Input Directory". Documents submitted to the "Action Items" directory can be processed by selecting to "Re-Process Action Items" from the "Control" menu. If you are unsure about the accuracy of the filename of the documents you are submitting they should be submitted directly to the Action Items directory. If you are confident that the filenames are accurate for the files you are submitting you should submit them directly to the "Pending Documents" folder.
+
+IMPORTANT NOTE: Any questionable files should be submitted to the "Action Items" directory for scrutiny before being run through the DocumentControl application. 
+
+When you are satisfied with your selected settings you may press the "Submit Documents" button to upload your files to the desired folder on the DocumentControl server.

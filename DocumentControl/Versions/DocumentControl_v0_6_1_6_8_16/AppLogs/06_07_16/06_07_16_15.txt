@@ -1,0 +1,9 @@
+OP-Act: Copiedso34342-1.txt to /home/justin/Desktop/TestDir/output/SO34342/SO34342_1.txt.txt on June 7, 2016, 8:56 pm.
+OP-Act: Copiedso34533-1.txt to /home/justin/Desktop/TestDir/output/SO34533/SO34533_1.txt.txt on June 7, 2016, 8:56 pm.
+OP-Act: Copiedso34542-1.txt to /home/justin/Desktop/TestDir/output/SO34542/SO34542_1.txt.txt on June 7, 2016, 8:56 pm.
+OP-Act: Copiedso34542-2.txt to /home/justin/Desktop/TestDir/output/SO34542/SO34542_2.txt.txt on June 7, 2016, 8:56 pm.
+OP-Act: Copiedso34542-3.txt to /home/justin/Desktop/TestDir/output/SO34542/SO34542_3.txt.txt on June 7, 2016, 8:56 pm.
+OP-Act: Copiedso34543-2.txt to /home/justin/Desktop/TestDir/output/SO34543/SO34543_2.txt.txt on June 7, 2016, 8:56 pm.
+OP-Act: Copiedso34543-5.txt to /home/justin/Desktop/TestDir/output/SO34543/SO34543_5.txt.txt on June 7, 2016, 8:56 pm.
+OP-Act: Copiedso36543-1.txt to /home/justin/Desktop/TestDir/output/SO36543/SO36543_1.txt.txt on June 7, 2016, 8:56 pm.
+Control Operation Complete! Processed 10 files on June 7, 2016, 8:56 pm. DC159.

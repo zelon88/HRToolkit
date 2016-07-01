@@ -1,0 +1,3 @@
+/tmp/SAFEDIR/isolated/eicar.com/eicar.com.txt: Eicar-Test-Signature FOUND
+/tmp/SAFEDIR/isolated/eicar.com/eicar.com.txt: Eicar-Test-Signature FOUND
+/tmp/SAFEDIR/isolated/eicar.com/eicar.com.txt: Eicar-Test-Signature FOUND

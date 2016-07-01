@@ -1,0 +1,89 @@
+<html>
+
+ <head>
+  <title>Securing File</title>
+ </head>
+ <body><div align="center">
+<a href="http://cloud.honestrepair.net">
+<img src="http://cloud.honestrepair.net/HRProprietary/scanner/HRBanner.png" alt="HonestRepair"> </a>
+</div>
+<div style=""
+    <br>
+    <div align="center"><p><h2>Your file is ready!</h2></div>
+    <br>
+<div align="center">
+  <br>
+<?php
+// Justin G.  2016
+// HRLocker Version 1.0 - 3/8/16
+// This web application was designed to automatically identify files uploaded by a client and encrypt or decrypt that file based on user supplied settings. This applicaton also scans 
+// uokiaded files with ClamAV.
+
+// Load Wordpress and see if our user is logged-in. Return User_ID if logged-in, 0 if otherwise.
+require_once('/var/www/html/wp-load.php');
+$user_ID = get_current_user_id();
+// File information.
+$file = $_POST['hiddenFile'];
+$filename = pathinfo($file, PATHINFO_FILENAME);
+$oldExtension = pathinfo($file, PATHINFO_EXTENSION);
+// Arrays to filter out files by extension.
+$allowed = array('jpg', 'jpeg', 'gif', 'png', 'dat', 'pages', 'cfg', 'txt', 'doc', 'docx', 'rtf', 'odf', 'odt', 'abw', 'msi', 'exe', 'deb', 'dll', 'pif', 'application', 'msp', 'com',
+   'scr', 'gadget', 'cpl', 'msc', 'jar', 'zip', '7z', 'rar', 'tar', 'tar.gz', 'tar.bz2', 'iso', 'vhd', 'abw', 'pdf', 'mp3', 'avi', 'wma', 'wav', 'ogg', 'xls', 'xlsx', 'ods', 'bat',
+   'cmd', 'inf', 'ppt', 'reg', 'vb', 'vbe', 'vbs,', 'pptm', 'msh', 'msh1', 'msh2', 'xcf', 'lnk', 'docm', 'dotm', 'xltm', 'ws', 'wsf', 'bat', );
+$allowed1 = array('dat', 'pages', 'cfg', 'txt', 'doc', 'docx', 'rtf', 'odf', 'odt', 'abw', 'msi', 'exe', 'deb', 'dll', 'pif', 'application', 'msp', 'com',
+   'scr', 'gadget', 'cpl', 'msc', 'abw', 'pdf', 'mp3', 'avi', 'wma', 'wav', 'ogg', 'xls', 'xlsx', 'ods', 'bat', 'jpg', 'jpeg', 'gif', 'png', 
+   'cmd', 'inf', 'ppt', 'reg', 'vb', 'vbe', 'vbs,', 'pptm', 'msh', 'msh1', 'msh2', 'xcf', 'lnk', 'docm', 'dotm', 'xltm', 'ws', 'wsf' );
+$allowed2 = array('zip', '7z', 'rar', 'tar', 'tar.gz', 'tar.bz2', 'iso', 'vhd',);
+$archarray = array('zip', '7z', 'rar', 'tar', 'tar.gz', 'tar.bz2', 'iso', 'vhd');
+$array7z = array('7z', 'zip', 'rar', 'iso', 'vhd');
+$array7zo = array('7z');
+$array7zo2 = array('vhd', 'iso');
+$arrayzipo = array('zip');
+$arraytaro = array('tar.gz', 'tar.bz2', 'tar');
+$arrayraro = array('rar');
+// Directories the app needs.
+$safedir = ('/var/www/html/cloud/temp/' . $file . '.' . $oldExtension); 
+$safedir2 = "/var/www/html/cloud/temp/$file";
+$logFile = ('/var/www/html/HRProprietary/locker/Logs/' . $user_ID . $file . '.txt');
+$logFileURL = ($user_ID . $file . '.txt');
+// Encryption/Decryption specific POST data.
+$salts = $_POST['salt'];
+if($salt == 1) {
+  $salt = '-s'; }
+$b64 = $_POST['base64'];
+if($b64 == 1) {
+  $b64 = '-base64 '; }
+$pass = $_POST['pass1'];
+$passconf = $_POST['pass'];
+// A quick double-check to make sure our passwords match from the uploader. The Jscript in our uploader does this, but this will deter other scripts from posting to locker.php.
+      if($pass1 == $pass2) {
+        $password = $_POST['pass1']; ]
+          else {
+            echo 'Error receiving POST data from uploader script. Passwords do not match.' \
+            die; }
+if ( isset( $_POST['encryptDownload'] ) ) {
+// File Scanning & Encryption phase.
+  if ( isset( $_POST['e128'] ) ) {
+    if (in_array($oldExtension,$allowed1) ) {
+      shell_exec("clamscan -r --remove $safedir | grep FOUND >> $logFile"); 
+        if (filesize($logFile) > 1 { echo 'Virus Infected Files Detected. Aborting encryption and cleaning-up temporary files. Please scan your file for viruses and try re-uploading'; 
+          die; }
+      shell_exec('openssl -e '$salt$b64'aes128 -in '$safedir' -o '$safedir' -p '$password);
+
+  if ( isset( $_POST['e256'] ) ) {
+    if (in_array($oldExtension,$allowed1) ) {
+      shell_exec("clamscan -r --remove $safedir | grep FOUND >> $logFile"); }
+        if (filesize($logFile) > 1 { echo 'Virus Infected Files Detected. Aborting encryption and cleaning-up temporary files. Please scan your file for viruses and try re-uploading'; 
+          die; }
+// File Scanning & Decryption phase.
+  if ( isset( $_POST['d128'] ) ) {
+    if (in_array($oldExtension,$allowed1) ) {
+      shell_exec("clamscan -r --remove $safedir | grep FOUND >> $logFile"); }
+        if (filesize($logFile) > 1 { echo 'Virus Infected Files Detected. Aborting decryption and cleaning-up temporary files. Please scan your file for viruses and try re-uploading'; 
+          die; }
+  if ( isset( $_POST['d256'] ) ) {
+    if (in_array($oldExtension,$allowed1) ) {
+      shell_exec("clamscan -r --remove $safedir | grep FOUND >> $logFile"); }
+        if (filesize($logFile) > 1 { echo 'Virus Infected Files Detected. Aborting decryption and cleaning-up temporary files. Please scan your file for viruses and try re-uploading'; 
+          die; } 
+        }

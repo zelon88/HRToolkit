@@ -1,0 +1,21 @@
+OP-Act: Copied so231753-2.abw to /home/justin/Desktop/TestDir/output/SO23175/SO23175_32.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so331753-2.abw to /home/justin/Desktop/TestDir/output/SO33175/SO33175_32.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33353-3.abw to /home/justin/Desktop/TestDir/output/SO33353/SO33353_3.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33453-12.abw to /home/justin/Desktop/TestDir/output/SO33453/SO33453_12.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33453-3.abw to /home/justin/Desktop/TestDir/output/SO33453/SO33453_3.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33753-1.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_1.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33753-11.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_11.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33753-12.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_12.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33753-2.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_2.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33753-3.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_3.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so33953-2.abw to /home/justin/Desktop/TestDir/output/SO33953/SO33953_2.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so34343-11.abw to /home/justin/Desktop/TestDir/output/SO34343/SO34343_11.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so34353-1.abw to /home/justin/Desktop/TestDir/output/SO34353/SO34353_1.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so34353-11.abw to /home/justin/Desktop/TestDir/output/SO34353/SO34353_11.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so34353-3.abw to /home/justin/Desktop/TestDir/output/SO34353/SO34353_3.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so34453-3.abw to /home/justin/Desktop/TestDir/output/SO34453/SO34453_3.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so34533-1.abw to /home/justin/Desktop/TestDir/output/SO34533/SO34533_1.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so34553-1.abw to /home/justin/Desktop/TestDir/output/SO34553/SO34553_1.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so35553-1.abw to /home/justin/Desktop/TestDir/output/SO35553/SO35553_1.abw.abw on June 19, 2016, 6:00 pm.
+OP-Act: Copied so35753-1.abw to /home/justin/Desktop/TestDir/output/SO35753/SO35753_1.abw.abw on June 19, 2016, 6:00 pm.
+Control Operation Complete! Processed 20 files on June 19, 2016, 6:00 pm. DC159.

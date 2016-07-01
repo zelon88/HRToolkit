@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>DocumentControl | Manage </title>
+<link rel="stylesheet" type="text/css" href="DocConCSS.css">
+</head>
+
+<body>
+<div id="nav">
+<img src="Header.jpg" alt="Tru-Form DocumentControl">
+    <div class="nav">
+      <ul>
+        <li class="overview"><a href="#">Overview</a></li>
+        <li class="Manage"><a href="#">Manage</a></li>
+        <li class="settings"><a href="#">Settings</a></li>
+        <li class="logs"><a href="#">Logs</a></li>
+      </ul>
+    </div>
+
+</div>
+
+
+<div id="upload">
+<hr />
+<br>
+Upload a Pending Document ... 
+<br>
+<form action="DocCon.php" method="post" enctype="multipart/form-data">
+  <input type="file" name="fileToUpload" id="fileToUpload"><br>
+Filename (blank for auto)<input type="text" name="USERFileName" id="USERFileName"><br>
+WO# (blank for auto)<input type="text" name="USERWO" id="USERWO"><br>
+PartID (blank for auto)<input type="text" name="USERPartID" id="USERPartID"><br>
+SO# (blank for auto)<input type="text" name="USERSO" id="USERSO"><br>
+PO# (blank for auto)<input type="text" name="USERPO" id="USERPO"><br>
+Customer PO# (blank for auto)<input type="text" name="USERCPO" id="USERCPO"><br>
+CoC#<input type="text" name="USERCOC" id="USERCOC"><br>
+  <input type="submit" value="Upload"name="submit"> 
+</form>
+</div>
+
+
+
+</body>
+
+</html>

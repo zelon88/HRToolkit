@@ -1,0 +1,17 @@
+Submitting A New Log Entry
+
+To submit a new log entry, navigate to "Logging->New Log Entry". In the "New Log Entry" window, enter your name and a complete description of any recent changes to DocumentControl or it's directories of controlled documents. 
+
+Reasons for new log entries include, but are not limited to:
+
+-Changing the config.php file,
+
+-Changing, Removing or modifying a controlled document outside of DocumentControl,
+
+-Manually adding a controlled document outside of DocumentControl,
+
+-Replacing a controlled document with another controlled document of the same name,
+
+-Creating a new folder in the controlled document directory.
+
+IMPORTANT NOTE: Username, Login, or Password information SHOULD NEVER BE ADDED to the Logs. They will be searchable and viewable by anyone with access to DocumentControl.

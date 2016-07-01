@@ -1,0 +1,38 @@
+How To Change Settings
+
+DocumentControl allows logged-in administrators to change some settings through the graphical user-interface. The rest of the DocumentControl configuration must be setup by manually navigating to the installation directory on the DocumentControl server and modifying the config.php file with a text editor. 
+
+SETTINGS SUMMARY
+The "Settings Summary" window will show you an overview of the settings currently in use. Always make sure these settings are correct after making any changes.
+
+APPLICATION SETTINGS
+The "Application Settings" window will allow logged-in users to make changes to the way DocumentControl works.
+
+-Server Name:  Sets the name for the specific instance of DocumentControl. Useful on networks with multiple servers or multiple installations of DocumentControl.
+
+-Internal IP: The address of the server on the local network. Usually something like 192.168.1.xxx .
+
+-External IPv4: The address of the external network to the ISP. Usually something like 105.22.111.43 .
+
+-Domain: The Domain that the local server is using. If this is blank DocumentControl will assume there is no domain.
+
+-Auto Backups: If enabled DocumentControl will allow regular users to run the auto backup scripts which make a copy of the output directory to the backup directory. This setting requires a valid "Backup Directory" be manually set in the DocumentControl config.php file with a text editor.
+
+-Virus Scanning: If enabled, DocumentControl will use ClamAV (if installed on the server) to update the ClamAV anti-virus definitions and scan the pending or action directries prior to each control operation. DocumentControl will NOT delete any files it deems as infected. Instead it will inform the user of the infection and urge them to contact their supervisor and administrator. If the file is deemed to be infected it should be removed appropriately.
+
+-Scan All Directories: If clicked (if ClamAV is installed on server) will update ClamAV anti-virus definitions and scan the Pending Documents directory, the Action Items directory, the Installation directory, the Backup directory, and the output directory. DocumentControl will NOT delete any files it deems as infected. Instead it will inform the user of the infection and urge them to contact their supervisor and administrator. If the file is deemed to be infected it should be removed appropriately. 
+
+-Save Changes: Saves and immediately applies any changes made to the "Application Settings" page. This must be selected after making adjustments to the settings.
+
+-Clear Changes: Clicking this button will reload the "Application Settings" page without applying any changes that were made. This is useful when you may have made a mistake to one or more settings and cannot remember what they were before you began making changes. This is NOT the same as the "Load Defaults" button, as it does not save anything to the DocCon configuration cache.
+
+-Load Defaults: Clicking this button will read the config.php file and save THOSE to the configuration cache, overwriting any changes that have been made since DocCon was originally configured. This will restore DocCon to a freshly installed and configured state.
+
+DOCUMENT SETTINGS
+The "Document Settings" window will allow logged-in users to view the directory settings contained in the "config.php" file. These files can only be modifed by editing the "config.php" file located in the installation directory with a text editor. These files cannot be changed from within the DocumentControl graphical web user-interface.
+
+DATABASE SETTINGS
+The "Database Settings" window will allow logged-in users to view the database settings contained in the "config.php" file. These files can only be modifed by editing the "config.php" file located in the installation directory with a text editor. These files cannot be changed from within the DocumentControl graphical web user-interface.
+
+NOMENCLATURE SETTINGS
+The "Nomenclature Settings" window will allow logged-in users to make changes to the filters DocumentControl uses to process files.

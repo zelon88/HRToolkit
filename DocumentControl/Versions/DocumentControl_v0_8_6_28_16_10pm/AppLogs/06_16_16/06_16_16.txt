@@ -1,0 +1,34 @@
+OP-Act: Submitted so34333-5.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so34333-6.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so34338-8.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so35333-6.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39777-6.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39787-6.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39911-1.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39922-2.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39933-8.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39939-9.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39953-11.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39955-5.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39956-12.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39958-8.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39977-8.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted so39996-3.txt to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Submitted 16 Pending Documents to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34333 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34333 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34338 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO35333 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39777 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39787 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39911 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39922 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39933 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39939 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39953 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39955 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39956 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39958 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39977 on June 16, 2016, 11:59 am.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39996 on June 16, 2016, 11:59 am.
+OP-Act: Submitted  to /home/justin/Desktop/TestDir/input on June 16, 2016, 11:59 am.

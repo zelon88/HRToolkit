@@ -1,0 +1,4 @@
+OP-Act: Copied so39939-9.txt to /home/justin/Desktop/TestDir/output/SO39939/SO39939_9.txt.txt on June 10, 2016, 11:38 am.
+OP-Act: Copied so39953-11.txt to /home/justin/Desktop/TestDir/output/SO39953/SO39953_11.txt.txt on June 10, 2016, 11:38 am.
+OP-Act: Copied so39956-12.txt to /home/justin/Desktop/TestDir/output/SO39956/SO39956_12.txt.txt on June 10, 2016, 11:38 am.
+Control Operation Complete! Processed 5 files on June 10, 2016, 11:38 am. DC159.

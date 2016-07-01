@@ -1,0 +1,90 @@
+<?php
+
+
+    if (in_array($oldExtension,$pdfarray) ) {
+      $fPage = $_POST['fPage'];
+      $lPage = $_POST['lPage'];
+      $complex = $_POST['complex'];
+      if ($fPage > $lPage) {
+        $first = ('-f ') . $lPage;
+        $last = ('-l ') . $fPage; }
+        else { 
+          $first = ('-f ') . $fPage;
+          $last = ('-l ') . $lPage; }
+      if (($last - $first) > '1' ) {
+        $tPages = ($last - $first);
+        $multiout = 'true'; }
+      else {
+        $multiout = 'false'; }
+      $pdfxml = array('xml');
+      $pdfhtml = array('html');
+      $pdfzip =  array('zip', 'tar', 'tar.bz', 'tar.bz2', '7z');
+      $pdfrar = array('rar');
+      $pdfimg = array('jpg', 'jpeg', 'bmp', 'gif', 'png');
+      $alt = $_POST['Alt']; 
+      $RImages = $_POST['RImages'];
+      $safedir1 = '/tmp/SAFEDIR/isolated/';
+      $safedir2 = "/tmp/SAFEDIR/isolated/$filename";
+      mkdir("$safedir2", 0777, true);
+      chmod($safedir2, 0777);
+      if ($complex = 'complex' ) {
+        $complex1 = ' '; } 
+        elseif ($complex != 'complex' ) {
+          $complex1 = ' -c '; } 
+      if (in_array($extension,$pdfimg) ) {
+     shell_exec ("convert $pathname $newPathname"); }
+      if (in_array ($extension, $pdfzip)) { 
+          $start = 'pdftohtml -i'; 
+     shell_exec ("$start $first $last$complex1$pathname $safedir2");
+     shell_exec("7z a $newPathname $safedir2"); } }
+
+
+
+
+         if (in_array($oldExtension,$archarray) ) {
+      $safedir1 = '/tmp/SAFEDIR/isolated/';
+      $safedir2 = "/tmp/SAFEDIR/isolated/$filename";
+      mkdir("$safedir2", 0777, true);
+      chmod($safedir2, 0777);
+      $safedir3 = ("/tmp/SAFEDIR/isolated/$filename" . '.7z');
+      if (in_array($extension,$array7zo) ) {
+     shell_exec("7z e $pathname -o$safedir2");
+     shell_exec("7z a $safedir3 $safedir2");
+      
+      copy($safedir3, $newPathname); } 
+      if (file_exists($safedir3) ) {
+        chmod($safedir3, 0777); 
+        unlink($safedir3);
+        $delFiles = glob($safedir2 . '/*');
+        foreach($delFiles as $delFile){
+          if(is_file($delFile) ) {
+          chmod($delFile, 0777);  
+          unlink($delFile); }
+          elseif(is_dir($delFile) ) {
+          chmod($delFile, 0777);
+          rmdir($delFile); } }    
+        rmdir($safedir2); }
+      elseif (in_array($extension, $arraytaro) ) {
+     shell_exec("7z e $pathname -o$safedir2");
+     shell_exec ("tar czf $newPathname $safedir2");
+        $delFiles = glob($safedir2 . '/*');
+        foreach($delFiles as $delFile){
+          if(is_file($delFile) ) {
+          chmod($delFile, 0777);  
+          unlink($delFile); }
+          elseif(is_dir($delFile) ) {
+          chmod($delFile, 0777);
+          rmdir($delFile); } }     
+        rmdir($safedir2); } 
+      elseif(in_array($extension, $arrayraro) ) {
+     shell_exec("7z e $pathname -o$safedir2");
+     shell_exec("rar a $newPathname $safedir2");
+          $delFiles = glob($safedir2 . '/*');
+          foreach($delFiles as $delFile){
+            if(is_file($delFile) ) {
+              chmod($delFile, 0777);  
+              unlink($delFile); }
+            elseif(is_dir($delFile) ) {
+              chmod($delFile, 0777);
+              rmdir($delFile); } } 
+            rmdir($safedir2); } }

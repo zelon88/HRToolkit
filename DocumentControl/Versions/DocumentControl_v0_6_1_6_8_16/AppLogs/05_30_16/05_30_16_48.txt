@@ -1,0 +1,6 @@
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/output/SO23563/SO23563_1.abw.abw on May 30, 2016, 12:52 pm.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/ActionItems/ on May 30, 2016, 12:52 pm.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/ActionItems/ on May 30, 2016, 12:52 pm.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/ActionItems/qot23553-1abw on May 30, 2016, 12:52 pm.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/ActionItems/so23563-1abw on May 30, 2016, 12:52 pm.
+Control Operation Complete! Processed 6 files on May 30, 2016, 12:52 pm. DC159.

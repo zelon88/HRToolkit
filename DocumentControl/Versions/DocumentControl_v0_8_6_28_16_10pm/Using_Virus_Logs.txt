@@ -1,0 +1,22 @@
+Using Virus Logs
+
+You can view the contents of the "Virus Logs" by navigating to "Logging->Virus Logs". While the "Applogs/VirusLogs" directory always exists by default, no logfiles are created unless a potentially infected file is found. If a potentially infected file is found during any DocumentControl scanning operation a log entry will be created according to date in the "Virus Logs" that looks similar to the sample below.
+
+SAMPLE VIRUS LOG ENTRY
+----------------------
+FOUND > eicar test signature, "/var/Output/SO33454/so33454-2.doc"
+----------------------
+
+To enable virus scanning within DocumentControl, make sure ClamAV is installed on the server and navigate to "Settings->Application Settings" and set the "Virus Scanning" dropdown box to "Enabled" before clicking "Save Changes". 
+
+A VirusLog file will be created  ONLY  IF  ALL  of the following conditions are met: 
+
+1. If "Virus Scanning" is set to "Enabled" in "Settings->Application Settings",
+
+2. If a control operation is performed, 
+
+3. A potentially infected file is found. 
+
+You may perform a virus scan of all DocumentControl related directories at any time as long as ClamAV is installed by navigating to "Settings->Application Settings" and selecting the "Scan All Directories" button.
+
+If a "Virus Scan" results in a potentially infected file being detected it is reccomended that a supervisor and administrator be notified immediately so that the file can be scrutinized immediately.

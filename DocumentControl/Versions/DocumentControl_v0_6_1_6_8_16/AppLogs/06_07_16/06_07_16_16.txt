@@ -1,0 +1,4 @@
+OP-Act: Copied action item so34542-3.txt to /home/justin/Desktop/TestDir/output/SO34542/SO34542_3.txt.txt on June 7, 2016, 8:58 pm.
+OP-Act: Copied action item so34543-2.txt to /home/justin/Desktop/TestDir/output/SO34543/SO34543_2.txt.txt on June 7, 2016, 8:58 pm.
+OP-Act: Copied action item so36543-1.txt to /home/justin/Desktop/TestDir/output/SO36543/SO36543_1.txt.txt on June 7, 2016, 8:58 pm.
+Control Operation Complete! Processed 5 files on June 7, 2016, 8:58 pm. DC159.

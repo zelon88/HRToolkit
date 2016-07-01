@@ -1,0 +1,2 @@
+/home/justin/Desktop/TestDir/input/eicar.com: Eicar-Test-Signature FOUND
+/home/justin/Desktop/TestDir/ActionItems/eicar.com: Eicar-Test-Signature FOUND

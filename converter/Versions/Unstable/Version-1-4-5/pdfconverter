@@ -1,0 +1,42 @@
+<?php
+
+
+    if (in_array($oldExtension,$pdfarray) ) {
+      $fPage = $_POST['fPage'];
+      $lPage = $_POST['lPage'];
+      $complex = $_POST['complex'];
+      if ($fPage > $lPage) {
+        $first = ('-f ') . $lPage;
+        $last = ('-l ') . $fPage; }
+        else { 
+          $first = ('-f ') . $fPage;
+          $last = ('-l ') . $lPage; }
+      if (($last - $first) > '1' ) {
+        $tPages = ($last - $first);
+        $multiout = 'true'; }
+      else {
+        $multiout = 'false'; }
+      $pdfdoc =  array('txt', 'doc', 'docx', 'rtf', 'odf');
+      $pdfabw = array('abw');
+      $pdfimg = array('jpg', 'jpeg', 'bmp', 'png', 'gif');
+      $alt = $_POST['Alt']; 
+      $safedir = '/tmp/SAFEDIR/isolated/' . $filename . '.html';
+      $safedir1 = '[' . $safedir . ']';
+      $RImages = $_POST['RImages'];
+      if ($complex = 'complex' ) {
+        $complex1 = ' '; } 
+        elseif ($complex != 'complex' ) {
+          $complex1 = ' -c '; } 
+      if (in_array($extension,$pdfimg) ) {
+     shell_exec ("convert $pathname $newPathname"); }
+      elseif (in_array($extension,$pdfabw) ) {
+     shell_exec ("abiword --to=$newPathname $pathname"); }
+      elseif (in_array($extension,$pdfdoc) ) {
+        if ($RImages = '') {
+          $start = 'pdftohtml'; 
+     shell_exec ("$start $first $last$complex1$pathname $safedir");
+     shell_exec ("unoconv -o $newPathname -f $extension $safedir"); }
+          else { 
+            $start = 'pdftohtml -i'; 
+     shell_exec ("$start $first $last$complex1$pathname $safedir");
+     shell_exec ("unoconv -o $newPathname -f $extension $safedir"); } }

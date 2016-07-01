@@ -1,0 +1,3 @@
+General Troubleshooting
+
+DocumentControl was designed to be verbose by nature, so most error or warning messages should contain most of the information you need to solve most problems. For more specific information, search for the error code in the search field under the "Help" menu. If you cannot find what you need in the official DocumentControl documentation and help articles, feel free to email Justin ("zelon88 at gmail dot com") for technical support.

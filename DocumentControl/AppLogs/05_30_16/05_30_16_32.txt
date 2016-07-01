@@ -1,0 +1,2 @@
+Error DC57, There was a problem verifying /home/justin/Desktop/TestDir/input as an Input Location. Please double check that the 
+    directory exists or that the DocumentControl config file and settings are correct.

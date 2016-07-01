@@ -1,0 +1,3 @@
+How To Login
+
+DocumentControl requires an administrator's login credentials to perform some specific functions. At this time, it is not possible to add multiple administrator accounts. If you are an administrator or supervisor who has access to the DocumentControl server's filesystem you may open the config.php file with a text editor and adjust the $AdminUser and $AdminPass variables to something that suits your needs. It is not reccomended to allow standard users access to rollback and settings functions. Error messages will be displayed if a user attempts to login with a blank or incorrect username or password, or if the login attempt was from an external or third-party script or location.
