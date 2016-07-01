@@ -1,0 +1,84 @@
+Index Of Error And Warning Messages
+
+--------------------
+"ERROR DC37, '.$Time.', You have not yet setup the DocumentControl configuration file! Please view and completely fill-out the settings or config.php file in your root DocumentControl directory."
+
+This error message means that the "config.php" file located in the installation directory has not been setup yet. To setup the "config.php" file, navigate to the installation directory on the server and open the "config.php" file with a text editor such as Notepad++, SublimeText 2/3, WordPad, or Abiword. Follow the instructions contained in the "config.php" file COMPLETELY. 
+--------------------
+
+--------------------
+"Error DC57, There was a problem verifying '.$InputLoc.' as an Input Location. Please double check that the directory exists or that the DocumentControl config file and settings are correct."
+
+The "InputLoc" is not set correctily in the "config.php" file located in the DocumentControl installation directory. On the DocumentControl server, navigate to the DocumentControl installation directory and verify that the $InputLoc is set correctly.
+--------------------
+
+--------------------
+"Error DC63, There was a problem verifying '.$OutputLoc.' as an Output Location. Please double check that the directory exists or that the DocumentControl config file and settings are correct.""
+
+The "OutputLoc" is not set correctily in the "config.php" file located in the DocumentControl installation directory. On the DocumentControl server, navigate to the DocumentControl installation directory and verify that the $OutputLoc is set correctly.
+--------------------
+
+--------------------
+"ERROR DC70, There was a problem verifying '.$BackupLoc.' as a Backup Location. Please double check that the directory exists or that the DocumentControl config file and settings are correct."
+
+The "BackupLoc" is not set correctily in the "config.php" file located in the DocumentControl installation directory. On the DocumentControl server, navigate to the DocumentControl installation directory and verify that the $BackupLoc is set correctly, or disable "AutoBackups" in "Settings->Application Settings". 
+--------------------
+
+--------------------
+"ERROR DC76, '.$Time.', DocumentControl could not validate the configuration file! Please verify the application settings and try again. The application has been halted."
+
+There were unxpecified syntax errors while loading the "config.php" file. On the DocumentControl server, navigate to the DocumentControl installation directory and completley verify the contents of the "config.php" file.
+--------------------
+
+--------------------
+"ERROR DC87, '.$Time.', There was an error during a routine scan. Please check the Input Location setting and try again. The operation has been haulted."
+
+This error message will only be displayed if there was an error verifying the input directory before Virus Scanning. This is an extra security precaution, and repeatedly seeing this message appear in logs could be an attempt by an infection to circumvent detection. If this error still appears with an empty input directory seek administrator or technical support assistance.
+--------------------
+
+--------------------
+"!!! WARNING !!! DC92, '.$Time.', DocumentControl detected potentially infected files during a routine scan. Please check the VirusLogs and remove or clean the infected file before running the application again."
+
+This warning message is designed to alert the user to a potentially infected file or files. A report should exist under "Logging->Virus Logs" with details about the specific file and threat detected. It is reccomended that the specified file be cleaned, removed, or given special exemption on the DocumentControl server to the ClamAV application by an administrator or supervisor.
+--------------------
+
+--------------------
+"!!! ERROR !!! DC155, $Time, Could not connect to MSSQL database. Check your database status and settings."
+
+This error means there was a problem establishing a database connection. Verify that the database server is online, that it is reachable, and that the database settings contained within the "config.php" file located in the installation directory are complete and accurate.
+--------------------
+
+--------------------
+"Please enter a search keyword. s15."
+
+This is a notice that a search button was pressed with an empty search field.
+--------------------
+
+--------------------
+"!!! WARNING !!! aS12, There was a security discrepency on '.$Time.'. The application has been haulted."
+
+There was an error during an administrator login attempt. At this time it is only possible to securely POST requests to DocumentControl from the localhost server. 3rd part requests are denied for security reasons, resulting in this error message. This message could be the result of being a robot attempting to hack the DocumentControl administraot functions, or if the "Salts" are set incorrectly in the "config.php" file located in the DocumentControl installation directory on the DocumentControl server.
+--------------------
+
+--------------------
+"!!! WARNING !!! aS14, There was a security discrepency on '.$Time.'. The application has been haulted."
+
+There was an error during an administrator login attempt. At this time it is only possible to securely POST requests to DocumentControl from the localhost server. 3rd part requests are denied for security reasons, resulting in this error message. This message could be the result of being a robot attempting to hack the DocumentControl administraot functions, or if the "Salts" are set incorrectly in the "config.php" file located in the DocumentControl installation directory on the DocumentControl server.
+--------------------
+
+--------------------
+"!!! WARNING !!! SAS16, There was a critical security fault. Login Request Denied. Application was halted on $Date."
+
+There was a critical security fault during an administrator controlled operation. At this time it is only possible to securely POST requests to DocumentControl from the localhost server. 3rd part requests are denied for security reasons, resulting in this error message. This message could be the result of being a robot attempting to hack the DocumentControl administraot functions, or if the "Salts" are set incorrectly in the "config.php" file located in the DocumentControl installation directory on the DocumentControl server.
+--------------------
+
+--------------------
+"!!! WARNING !!! SAS19, There was a critical security fault. Login Request Denied. Application was halted on $Date."
+
+There was a critical security fault during an administrator controlled operation. At this time it is only possible to securely POST requests to DocumentControl from the localhost server. 3rd part requests are denied for security reasons, resulting in this error message. This message could be the result of being a robot attempting to hack the DocumentControl administraot functions, or if the "Salts" are set incorrectly in the "config.php" file located in the DocumentControl installation directory on the DocumentControl server.
+--------------------
+
+--------------------
+"!!! WARNING !!! Potentially infected files found! s40"
+
+This warning occurs when an administrator selects "Settings->Application Settings->Scan All Directories" and the applcation detects potentially infected files during the resulting scan. It is reccomended that you inform an administrator and a supervisor immediately before furthur inspecting the infected files. A logfile detailing the infections will be generated under "Logging->Virus Logs".

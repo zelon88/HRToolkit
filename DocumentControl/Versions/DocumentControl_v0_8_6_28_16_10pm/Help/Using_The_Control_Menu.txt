@@ -1,0 +1,18 @@
+Using The “Control” Menu
+
+The control menu is where standard users can safely execute DocumentControl functions. 
+
+SUMMARY
+The “Summary” window gives you a brief overview of the settings DocumentControl is currently using to manage files. If any of the information shown in the “Summary” window seems incorrect or different than usual; inform your supervisor and administrator immediately and DO NOT use DocumentControl until the settings have been verified and/or corrected. SERIOUS FILESYSTEM DAMAGE or SECURITY RISKS could result.
+
+PROCESS PENDING DOCUMENTS
+This button will execute DocCon.php and organize any files found in the Pending Document directory based on the original filename, information containted in the "Nomenclatuire Settings", and information gathered from an established database. These settings can be modified by editing the config.php file located in the  DocumentControl “Installation Directory”. Any discrepancies or typo’s in the filenames of any files in the “Pending Documents” directory will result in DocumentControl leaving the filename unchanged and moving the file to the “Action Items” directory for human scrutiny.
+
+RE-PROCESS ACTION ITEMS
+This button will execute DocCon.php and target the “Action Items” directory instead of the “Pending Documents” directory. Before selecting this option it is recommended that you manually open and verify the filename of each document in the “Action Items” directory. Any files that can be filtered through the user-defined “Nomenclature Settings” without error will be organized into the “Output Directory” just like any normal “Pending Document”. Files that still contain typos or errors in the filename will be left behind in the “Action Items” directory for additional human scrutiny.
+
+BACKUP DOCUMENTS
+This button will only appear if the “Managed Backups” setting is set to “Enabled” under “Settings->Application Settings”. If the “Managed Backups” setting is set to “Disabled” this button will be hidden. This button will trigger DocumentControl to make a copy of the “Output Directory” to the “Backup Directory”. 
+
+SUBMIT DOCUMENTS
+This button allows the user to upload documents to DocumentControl either as “Pending Documents” or “Action Items”. Use the “Choose File” button to select one or more files for upload. Use the dropdown box to select an upload location. Use the “Submit Documents” button to upload the files to the selected folder on the DocumentControl server.

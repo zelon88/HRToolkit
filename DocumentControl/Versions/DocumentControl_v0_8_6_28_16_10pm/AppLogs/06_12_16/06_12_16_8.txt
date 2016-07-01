@@ -1,0 +1,21 @@
+OP-Act: Copied so34342-1.txt to /home/justin/Desktop/TestDir/output/SO34342/SO34342_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34533-1.txt to /home/justin/Desktop/TestDir/output/SO34533/SO34533_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34542-1.txt to /home/justin/Desktop/TestDir/output/SO34542/SO34542_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34542-2.txt to /home/justin/Desktop/TestDir/output/SO34542/SO34542_2.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34542-3.txt to /home/justin/Desktop/TestDir/output/SO34542/SO34542_3.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34543-1.txt to /home/justin/Desktop/TestDir/output/SO34543/SO34543_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34543-2.txt to /home/justin/Desktop/TestDir/output/SO34543/SO34543_2.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34543-5.txt to /home/justin/Desktop/TestDir/output/SO34543/SO34543_5.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34543-6.txt to /home/justin/Desktop/TestDir/output/SO34543/SO34543_6.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34546-2.txt to /home/justin/Desktop/TestDir/output/SO34546/SO34546_2.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34552-1.txt to /home/justin/Desktop/TestDir/output/SO34552/SO34552_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34562-1.txt to /home/justin/Desktop/TestDir/output/SO34562/SO34562_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34643-5.txt to /home/justin/Desktop/TestDir/output/SO34643/SO34643_5.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so34842-1.txt to /home/justin/Desktop/TestDir/output/SO34842/SO34842_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so35533-1.txt to /home/justin/Desktop/TestDir/output/SO35533/SO35533_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so35542-3.txt to /home/justin/Desktop/TestDir/output/SO35542/SO35542_3.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so36343-1.txt to /home/justin/Desktop/TestDir/output/SO36343/SO36343_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so36542-3.txt to /home/justin/Desktop/TestDir/output/SO36542/SO36542_3.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so36543-1.txt to /home/justin/Desktop/TestDir/output/SO36543/SO36543_1.txt.txt on June 12, 2016, 12:45 pm.
+OP-Act: Copied so36543-6.txt to /home/justin/Desktop/TestDir/output/SO36543/SO36543_6.txt.txt on June 12, 2016, 12:45 pm.
+Control Operation Complete! Processed 21 files on June 12, 2016, 12:45 pm. DC159.

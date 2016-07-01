@@ -1,0 +1,62 @@
+OP-Act: Submitted so32253-5.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so32533-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so32996-3.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so34323-5.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so34333-5.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so34333-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so34333-7.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so34438-8.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so35223-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so35233-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so35333-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so35393-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so36533-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so39577-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so39777-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so39787-6.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so39911-1.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so39922-3.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so39933-8.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted so39939-9.txt to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Submitted 20 Pending Documents to /home/justin/Desktop/TestDir/input on June 17, 2016, 3:15 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO32253 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO32533 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO32996 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34323 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34333 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34333 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34333 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO34438 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO35223 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO35233 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO35333 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO35393 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO36533 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39577 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39777 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39787 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39911 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39922 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39933 on June 17, 2016, 11:43 pm.
+OP-Act: Created /home/justin/Desktop/TestDir/output/SO39939 on June 17, 2016, 11:43 pm.
+OP-Act: Submitted sxo32543-6.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so38842-3.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so38842-2.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so38542-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so37743-5.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so37733-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so36637-2.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so36543-6.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so36543-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so36542-3.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so36533-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so36343-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so36312-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so35733-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so35542-3.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so35533-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so34877-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so34842-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so34777-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted so34662-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.
+OP-Act: Submitted 20 Action Items to /home/justin/Desktop/TestDir/ActionItems on June 17, 2016, 11:50 pm.

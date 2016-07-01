@@ -1,0 +1,17 @@
+OP-Act: Copied so34333-5.txt to /home/justin/Desktop/TestDir/output/SO34333/SO34333_5.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so34333-6.txt to /home/justin/Desktop/TestDir/output/SO34333/SO34333_6.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so34338-8.txt to /home/justin/Desktop/TestDir/output/SO34338/SO34338_8.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so35333-6.txt to /home/justin/Desktop/TestDir/output/SO35333/SO35333_6.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39777-6.txt to /home/justin/Desktop/TestDir/output/SO39777/SO39777_6.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39787-6.txt to /home/justin/Desktop/TestDir/output/SO39787/SO39787_6.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39911-1.txt to /home/justin/Desktop/TestDir/output/SO39911/SO39911_1.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39922-2.txt to /home/justin/Desktop/TestDir/output/SO39922/SO39922_2.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39933-8.txt to /home/justin/Desktop/TestDir/output/SO39933/SO39933_8.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39939-9.txt to /home/justin/Desktop/TestDir/output/SO39939/SO39939_9.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39953-11.txt to /home/justin/Desktop/TestDir/output/SO39953/SO39953_11.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39955-5.txt to /home/justin/Desktop/TestDir/output/SO39955/SO39955_5.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39956-12.txt to /home/justin/Desktop/TestDir/output/SO39956/SO39956_12.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39958-8.txt to /home/justin/Desktop/TestDir/output/SO39958/SO39958_8.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39977-8.txt to /home/justin/Desktop/TestDir/output/SO39977/SO39977_8.txt.txt on June 16, 2016, 11:59 am.
+OP-Act: Copied so39996-3.txt to /home/justin/Desktop/TestDir/output/SO39996/SO39996_3.txt.txt on June 16, 2016, 11:59 am.
+Control Operation Complete! Processed 16 files on June 16, 2016, 11:59 am. DC159.

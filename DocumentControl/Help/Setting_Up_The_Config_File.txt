@@ -1,0 +1,7 @@
+Setting Up The Config File
+
+The DocumentControl "config.php" file is located in the installation directory. It contains all of the information needed to setup and run DocumentControl scripts with, or without, the grapical web user-interface. It is important to note, that while the "config.php" file does directly control many of the DocumentControl settings, these are technically the "Default" values. When using the grapical web user-interface it is possible to over-ride some of these settings by saving the changes to a configuration cache file that should not and cannot be modified. When using the grapical web user-interface to make changes, it is possible to re-apply the default configuration file by navigating to "Settings->Application Settings" and selecting the "Load Defaults" button at the bottom of the "Information Summary" window. 
+
+To open the "config.php" file use an application such as Wordpad, Abiword, Notepad++, or SublimeText 2/3. If you use Notepad be aware that lines may not be displayed correctly, making the file extremely hard to view and modify. The file comes with self-explanatory instructions. Follow all instructions starting at the very beginning and do not stop or run any DocumentControl scripts until you have completed the configuration file. 
+
+IMPORTANT NOTE: SERIOUS SERVER FILESYSTEM DAMAGE COULD RESULT FROM RUNNING DOCUMENTCONTROL WITHOUT A COMPLETE AND ACCURATE CONFIGURATION FILE!!! 

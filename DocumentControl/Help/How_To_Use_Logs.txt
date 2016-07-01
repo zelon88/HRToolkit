@@ -1,0 +1,5 @@
+How To Use Logs
+
+DocumentControl keeps excellent logs of all operational activity. The purpose of these logs is to attach traceability to the files that DocumentControl has managed. If you are not sure where a file was placed by DocumentControl, searching the logs using the "Search Bar" at the top of the "Logging Menu" is usually the fastest way to find the information you're looking for. Sorting the logsfiles according to date is another useful way to find what you're looking for. Instead of searching through each line of text within a logfile, use the "CTRL+F" function of your web browser to locate the keyword you're looking for. 
+
+To assign traceailbity to files that were modified outside of the DocumentControl application, navigate to "Logging->New Log Entry" and fill out the "New Log Entry" form to submit a log entry.

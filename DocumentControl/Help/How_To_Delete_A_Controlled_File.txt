@@ -1,0 +1,13 @@
+How To Delete A Controlled File
+
+Currently DocumentControl write-protects the files it has controlled. To accomplish this, DocumentControl changes the owner of the files is handles to www-data. DocumentControl also changes the permissions of the file to a level that anyone may read the file but only the owner (www-data) may alter it. As a result, it is not possible through DocumentControl for standard (non-administrator) users to delete or roll-back a file that has been controlled by DocumentControl. 
+
+Due to the nature and sensitivity of controlled documents it is reccomended that NO CHANGES to the output directory be made outside of the DocumentControl application. DocumentControl was written to create and manage comprehensive logs of all operational activity. Manually managing files in the DocumentControl output directory defeats the inherint security and devalues the logs kept by DocumentControl. This could have an impact on the overall auditability of DocumentControl operations and the contents of the output directory.
+
+If is possible to rollback files that were controlled incorrectly while maintaining log integrity and autidability by contacting a supervisor or administrator with DocumentControl administrator credentials and having them rollback the undesired operation. 
+
+To manually delete a file that has been controlled by DocumentControl, contact a system administrator with global write permissions or root terminal permissions on the DocumentControl server. It is reccomended that for any changes made to the output directory that a log be added to reflect and represent the changes. To do this, navigate to "Logging->Create Log Entry" and enter a full description of the manual operation that was performed. Be as specific and accurate with the data you enter as possible.
+
+
+
+Search Tags: How To Delete A File, Delete A File, Delete, Deleting

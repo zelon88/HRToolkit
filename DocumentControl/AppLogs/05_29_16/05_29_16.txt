@@ -1,0 +1,341 @@
+Operation Complete! Processed 0 files on May 29, 2016, 12:13 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:29 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:31 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:33 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:33 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:34 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:35 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:36 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:36 am. DC90.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO30599 on May 29, 2016, 12:42 am.
+OP-Act: Copied so30599_1.doc to /home/justin/Desktop/TestDir/output/SO30599/SO30599__1.doc.doc on May 29, 2016, 12:42 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO30777 on May 29, 2016, 12:42 am.
+OP-Act: Copied so30777_1.abw to /home/justin/Desktop/TestDir/output/SO30777/SO30777__1.abw.abw on May 29, 2016, 12:42 am.
+Operation Complete! Processed 6 files on May 29, 2016, 12:42 am. DC141.
+Operation Complete! Processed 0 files on May 29, 2016, 12:45 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:46 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:53 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:53 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 12:55 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 1:05 am. DC90.
+Operation Complete! Processed 0 files on May 29, 2016, 9:30 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 10:58 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 10:59 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 10:59 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:19 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:19 am. DC90.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO30732 on May 29, 2016, 11:24 am.
+OP-Act: Copied so30732-1.abw to /home/justin/Desktop/TestDir/output/SO30732/SO30732_1.abw.abw on May 29, 2016, 11:24 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO30742 on May 29, 2016, 11:24 am.
+OP-Act: Copied so30742-1.abw to /home/justin/Desktop/TestDir/output/SO30742/SO30742_1.abw.abw on May 29, 2016, 11:24 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO30826 on May 29, 2016, 11:24 am.
+OP-Act: Copied so30826-2.abw to /home/justin/Desktop/TestDir/output/SO30826/SO30826_2.abw.abw on May 29, 2016, 11:24 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO30827 on May 29, 2016, 11:24 am.
+OP-Act: Copied so30827-2.abw to /home/justin/Desktop/TestDir/output/SO30827/SO30827_2.abw.abw on May 29, 2016, 11:24 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO37227 on May 29, 2016, 11:24 am.
+OP-Act: Copied so37227-2.abw to /home/justin/Desktop/TestDir/output/SO37227/SO37227_2.abw.abw on May 29, 2016, 11:24 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO37327 on May 29, 2016, 11:24 am.
+OP-Act: Copied so37327-2.abw to /home/justin/Desktop/TestDir/output/SO37327/SO37327_2.abw.abw on May 29, 2016, 11:24 am.
+Control Operation Complete! Processed 14 files on May 29, 2016, 11:24 am. DC141.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23553 on May 29, 2016, 11:28 am.
+OP-Act: Copied so23553-1.abw to /home/justin/Desktop/TestDir/output/SO23553/SO23553_1.abw.abw on May 29, 2016, 11:28 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23563 on May 29, 2016, 11:28 am.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/output/SO23563/SO23563_1.abw.abw on May 29, 2016, 11:28 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 11:28 am.
+OP-Act: Copied so23753-1.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_1.abw.abw on May 29, 2016, 11:28 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 11:28 am.
+OP-Act: Copied so23753-2.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_2.abw.abw on May 29, 2016, 11:28 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25753 on May 29, 2016, 11:28 am.
+OP-Act: Copied so25753-12.abw to /home/justin/Desktop/TestDir/output/SO25753/SO25753_12.abw.abw on May 29, 2016, 11:28 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 11:28 am.
+OP-Act: Copied so26753-1.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_1.abw.abw on May 29, 2016, 11:28 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 11:28 am.
+OP-Act: Copied so26753-3.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_3.abw.abw on May 29, 2016, 11:28 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO29753 on May 29, 2016, 11:28 am.
+OP-Act: Copied so29753-1.abw to /home/justin/Desktop/TestDir/output/SO29753/SO29753_1.abw.abw on May 29, 2016, 11:28 am.
+Control Operation Complete! Processed 18 files on May 29, 2016, 11:28 am. DC141.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23553 on May 29, 2016, 11:29 am.
+OP-Act: Copied so23553-1.abw to /home/justin/Desktop/TestDir/output/SO23553/SO23553_1.abw.abw on May 29, 2016, 11:29 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23563 on May 29, 2016, 11:29 am.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/output/SO23563/SO23563_1.abw.abw on May 29, 2016, 11:29 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 11:29 am.
+OP-Act: Copied so23753-1.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_1.abw.abw on May 29, 2016, 11:29 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 11:29 am.
+OP-Act: Copied so23753-2.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_2.abw.abw on May 29, 2016, 11:29 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25753 on May 29, 2016, 11:29 am.
+OP-Act: Copied so25753-12.abw to /home/justin/Desktop/TestDir/output/SO25753/SO25753_12.abw.abw on May 29, 2016, 11:29 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 11:29 am.
+OP-Act: Copied so26753-1.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_1.abw.abw on May 29, 2016, 11:29 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 11:29 am.
+OP-Act: Copied so26753-3.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_3.abw.abw on May 29, 2016, 11:29 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO29753 on May 29, 2016, 11:29 am.
+OP-Act: Copied so29753-1.abw to /home/justin/Desktop/TestDir/output/SO29753/SO29753_1.abw.abw on May 29, 2016, 11:29 am.
+Control Operation Complete! Processed 18 files on May 29, 2016, 11:29 am. DC141.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:30 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:30 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:38 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:40 am. DC90.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO21563 on May 29, 2016, 11:50 am.
+OP-Act: Copied so21563-1.abw to /home/justin/Desktop/TestDir/output/SO21563/SO21563_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23175 on May 29, 2016, 11:50 am.
+OP-Act: Copied so231753-2.abw to /home/justin/Desktop/TestDir/output/SO23175/SO23175_32.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23553 on May 29, 2016, 11:50 am.
+OP-Act: Copied so23553-1.abw to /home/justin/Desktop/TestDir/output/SO23553/SO23553_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23563 on May 29, 2016, 11:50 am.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/output/SO23563/SO23563_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so23753-1.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so23753-2.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_2.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23959 on May 29, 2016, 11:50 am.
+OP-Act: Copied so23959-2.abw to /home/justin/Desktop/TestDir/output/SO23959/SO23959_2.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25553 on May 29, 2016, 11:50 am.
+OP-Act: Copied so25553-1.abw to /home/justin/Desktop/TestDir/output/SO25553/SO25553_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so25753-12.abw to /home/justin/Desktop/TestDir/output/SO25753/SO25753_12.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so26753-1.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so26753-3.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_3.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so26753-4.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_4.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO29753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so29753-1.abw to /home/justin/Desktop/TestDir/output/SO29753/SO29753_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so31753-1.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_1.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so31753-3.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_3.abw.abw on May 29, 2016, 11:50 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO32753 on May 29, 2016, 11:50 am.
+OP-Act: Copied so32753-11.abw to /home/justin/Desktop/TestDir/output/SO32753/SO32753_11.abw.abw on May 29, 2016, 11:50 am.
+Control Operation Complete! Processed 34 files on May 29, 2016, 11:50 am. DC141.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23175 on May 29, 2016, 11:56 am.
+OP-Act: Copied so231753-2.abw to /home/justin/Desktop/TestDir/output/SO23175/SO23175_32.abw.abw on May 29, 2016, 11:56 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 11:56 am.
+OP-Act: Copied so31753-1.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_1.abw.abw on May 29, 2016, 11:56 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 11:56 am.
+OP-Act: Copied so31753-3.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_3.abw.abw on May 29, 2016, 11:56 am.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO32753 on May 29, 2016, 11:56 am.
+OP-Act: Copied so32753-11.abw to /home/justin/Desktop/TestDir/output/SO32753/SO32753_11.abw.abw on May 29, 2016, 11:56 am.
+Control Operation Complete! Processed 10 files on May 29, 2016, 11:56 am. DC141.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:58 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:58 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:58 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 11:58 am. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:00 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:00 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:04 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:05 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:05 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:08 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:08 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:09 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:09 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:09 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:11 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:11 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:11 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:12 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:12 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:13 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:34 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:34 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:35 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:35 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:37 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:37 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:42 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:44 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:44 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:46 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:47 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:47 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:47 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:48 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:48 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:50 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:50 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:51 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:52 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:52 pm. DC90.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:56 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 12:56 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:00 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:00 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:01 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:01 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:01 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:01 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:01 pm. DC101.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO21563 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so21563-1.abw to /home/justin/Desktop/TestDir/output/SO21563/SO21563_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23175 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so231753-2.abw to /home/justin/Desktop/TestDir/output/SO23175/SO23175_32.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23553 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so23553-1.abw to /home/justin/Desktop/TestDir/output/SO23553/SO23553_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23563 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/output/SO23563/SO23563_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so23753-1.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so23753-2.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_2.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23959 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so23959-2.abw to /home/justin/Desktop/TestDir/output/SO23959/SO23959_2.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25553 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so25553-1.abw to /home/justin/Desktop/TestDir/output/SO25553/SO25553_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so25753-12.abw to /home/justin/Desktop/TestDir/output/SO25753/SO25753_12.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so26753-1.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so26753-3.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_3.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so26753-4.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_4.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO29753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so29753-1.abw to /home/justin/Desktop/TestDir/output/SO29753/SO29753_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so31753-1.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so31753-3.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_3.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO32753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so32753-1.abw to /home/justin/Desktop/TestDir/output/SO32753/SO32753_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO32753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so32753-11.abw to /home/justin/Desktop/TestDir/output/SO32753/SO32753_11.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33175 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so331753-2.abw to /home/justin/Desktop/TestDir/output/SO33175/SO33175_32.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33353 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so33353-3.abw to /home/justin/Desktop/TestDir/output/SO33353/SO33353_3.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so33753-1.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_1.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so33753-11.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_11.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so33753-12.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_12.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so33753-3.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_3.abw.abw on May 29, 2016, 1:04 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO35553 on May 29, 2016, 1:04 pm.
+OP-Act: Copied so35553-1.abw to /home/justin/Desktop/TestDir/output/SO35553/SO35553_1.abw.abw on May 29, 2016, 1:04 pm.
+Control Operation Complete! Processed 50 files on May 29, 2016, 1:04 pm. DC159.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23175 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so231753-2.abw to /home/justin/Desktop/TestDir/output/SO23175/SO23175_32.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so23753-2.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_2.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23959 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so23959-2.abw to /home/justin/Desktop/TestDir/output/SO23959/SO23959_2.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so26753-4.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_4.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO29753 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so29753-1.abw to /home/justin/Desktop/TestDir/output/SO29753/SO29753_1.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33175 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so331753-2.abw to /home/justin/Desktop/TestDir/output/SO33175/SO33175_32.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33353 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so33353-3.abw to /home/justin/Desktop/TestDir/output/SO33353/SO33353_3.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33453 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so33453-3.abw to /home/justin/Desktop/TestDir/output/SO33453/SO33453_3.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so33753-11.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_11.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so33753-12.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_12.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34353 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so34353-11.abw to /home/justin/Desktop/TestDir/output/SO34353/SO34353_11.abw.abw on May 29, 2016, 1:09 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34453 on May 29, 2016, 1:09 pm.
+OP-Act: Copied so34453-3.abw to /home/justin/Desktop/TestDir/output/SO34453/SO34453_3.abw.abw on May 29, 2016, 1:09 pm.
+Control Operation Complete! Processed 26 files on May 29, 2016, 1:09 pm. DC159.
+Control Operation Complete! Processed 0 files on May 29, 2016, 1:10 pm. DC101.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO21563 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so21563-1.abw to /home/justin/Desktop/TestDir/output/SO21563/SO21563_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23175 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so231753-2.abw to /home/justin/Desktop/TestDir/output/SO23175/SO23175_32.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23553 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so23553-1.abw to /home/justin/Desktop/TestDir/output/SO23553/SO23553_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23563 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so23563-1.abw to /home/justin/Desktop/TestDir/output/SO23563/SO23563_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so23753-1.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so23753-2.abw to /home/justin/Desktop/TestDir/output/SO23753/SO23753_2.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23959 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so23959-2.abw to /home/justin/Desktop/TestDir/output/SO23959/SO23959_2.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25553 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so25553-1.abw to /home/justin/Desktop/TestDir/output/SO25553/SO25553_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so25753-12.abw to /home/justin/Desktop/TestDir/output/SO25753/SO25753_12.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so26753-1.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so26753-3.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_3.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so26753-4.abw to /home/justin/Desktop/TestDir/output/SO26753/SO26753_4.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO29753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so29753-1.abw to /home/justin/Desktop/TestDir/output/SO29753/SO29753_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so31753-1.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO31753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so31753-3.abw to /home/justin/Desktop/TestDir/output/SO31753/SO31753_3.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO32753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so32753-1.abw to /home/justin/Desktop/TestDir/output/SO32753/SO32753_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO32753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so32753-11.abw to /home/justin/Desktop/TestDir/output/SO32753/SO32753_11.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33175 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so331753-2.abw to /home/justin/Desktop/TestDir/output/SO33175/SO33175_32.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33353 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33353-3.abw to /home/justin/Desktop/TestDir/output/SO33353/SO33353_3.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33453 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33453-12.abw to /home/justin/Desktop/TestDir/output/SO33453/SO33453_12.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33453 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33453-3.abw to /home/justin/Desktop/TestDir/output/SO33453/SO33453_3.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33753-1.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33753-11.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_11.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33753-12.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_12.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33753-2.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_2.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33753-3.abw to /home/justin/Desktop/TestDir/output/SO33753/SO33753_3.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO33953 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so33953-2.abw to /home/justin/Desktop/TestDir/output/SO33953/SO33953_2.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34343 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so34343-11.abw to /home/justin/Desktop/TestDir/output/SO34343/SO34343_11.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34353 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so34353-1.abw to /home/justin/Desktop/TestDir/output/SO34353/SO34353_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34353 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so34353-11.abw to /home/justin/Desktop/TestDir/output/SO34353/SO34353_11.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34353 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so34353-3.abw to /home/justin/Desktop/TestDir/output/SO34353/SO34353_3.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34453 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so34453-3.abw to /home/justin/Desktop/TestDir/output/SO34453/SO34453_3.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34533 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so34533-1.abw to /home/justin/Desktop/TestDir/output/SO34533/SO34533_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO34553 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so34553-1.abw to /home/justin/Desktop/TestDir/output/SO34553/SO34553_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO35553 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so35553-1.abw to /home/justin/Desktop/TestDir/output/SO35553/SO35553_1.abw.abw on May 29, 2016, 2:03 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO35753 on May 29, 2016, 2:03 pm.
+OP-Act: Copied so35753-1.abw to /home/justin/Desktop/TestDir/output/SO35753/SO35753_1.abw.abw on May 29, 2016, 2:03 pm.
+Control Operation Complete! Processed 74 files on May 29, 2016, 2:03 pm. DC159.
+Control Operation Complete! Processed 0 files on May 29, 2016, 2:04 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 2:04 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 2:05 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 2:35 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 3:12 pm. DC101.
+Control Operation Complete! Processed 0 files on May 29, 2016, 3:13 pm. DC101.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO21563 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23553 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23563 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23753 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23959 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25553 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO25753 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO26753 on May 29, 2016, 8:39 pm.
+OP-Act: Creted /home/justin/Desktop/TestDir/output/SO23563 on May 29, 2016, 8:45 pm.

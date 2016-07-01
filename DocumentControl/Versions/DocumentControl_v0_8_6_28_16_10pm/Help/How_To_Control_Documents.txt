@@ -1,0 +1,15 @@
+How To Control Documents With DocumentControl
+
+To control documents with DocumentControl you must first locate your "Input Directory" by navigating to "Control->Summary". 
+
+The input directory listed in the Summary window is relative to the server running DocumentControl, NOT your personal workstation.
+
+If you do not have access to the "Input Directory" by using SMB or Windows Explorer you may use the "Submit Documents" button in the "Control" menu. While submitting documents you may select more than one document at a time by clicking-and-dragging or holding the "CTRL" key while clicking to select files.
+
+Files located in the input directory will be processed according to the options defined in "Settings->Nomenclature Settings" and organized into the "Output Directory" when the "Process Pending Documents" button is pressed in the "Control" menu.
+
+Files that have been organized into the output directory by DocumentControl will have their peremissions changed so that they can no longer be removed or modified publically. To manually modify or remove a document controlled by DocumentControl an administrator level account on the server is required. A log entry will be created detailing the actions taken to organize each file that goes into the output directory. To see these logs navigate to "Logs->Application Logs" and search for the desired log by date. Each DocumentControl operation performed generates a new, incremented log file.
+
+Any files that could not be verified due to inconsistent database results or incorrect spelling of the filename will be moved to the "Action Items Directory". This directory must be maintained regularly. Items in the "Action Items Direcory" can be re-processed by selecting the "Re-Process Action Items" button in the "Control" menu.
+
+If "Auto Backups" are enabled under "Settings->Application Settings" a button will appear in the "Control Menu" giving you the option to make a copy of the output directory to a the "Backup Directory" listed in the Summary window of the "Control" menu. 

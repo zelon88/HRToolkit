@@ -1,0 +1,2 @@
+/tmp/QNTN/safedir/isolated/eicar.com/eicar.com.txt: Eicar-Test-Signature FOUND
+/tmp/QNTN/safedir/isolated/eicar.com.zip: Eicar-Test-Signature FOUND

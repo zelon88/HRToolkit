@@ -1,0 +1,32 @@
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:00 am.
+OP-Act: Uploaded Pending Document Array to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:00 am.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:02 am.
+OP-Act: Uploaded Pending Document Array to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:02 am.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:05 am.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:09 am.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:11 am.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:12 am.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:32 am.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:34 am.
+OP-Act: Uploaded Pending Document so34543-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:10 pm.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:15 pm.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:17 pm.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:23 pm.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 12:24 pm.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 9:19 pm.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 9:21 pm.
+OP-Act: Uploaded Pending Document so34342-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 9:22 pm.
+OP-Act: Uploaded Pending Document so36543-1.txt to /home/justin/Desktop/TestDir/output on June 3, 2016, 9:22 pm.
+OP-Act: Uploaded  so34342-1.txt to  on June 3, 2016, 10:37 pm.
+OP-Act: Uploaded Action Item so34342-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 10:42 pm.
+OP-Act: Uploaded Action Item so34342-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 10:43 pm.
+OP-Act: Uploaded Action Item so34342-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 10:48 pm.
+OP-Act: Uploaded Action Item  to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 10:51 pm.
+OP-Act: Uploaded Action Item so34342-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 10:57 pm.
+OP-Act: Uploaded Action Item <br />
+<b>Notice</b>:  Array to string conversion in <b>/var/www/html/HRProprietary/DocumentControl/Uploader2.php</b> on line <b>77</b><br />
+Array to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 10:57 pm.
+OP-Act: Uploaded Action Item so34342-1.txt to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 11:00 pm.
+OP-Act: Uploaded Action Item <br />
+<b>Notice</b>:  Array to string conversion in <b>/var/www/html/HRProprietary/DocumentControl/Uploader2.php</b> on line <b>77</b><br />
+Array to /home/justin/Desktop/TestDir/ActionItems on June 3, 2016, 11:00 pm.
