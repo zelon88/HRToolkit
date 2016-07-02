@@ -21,6 +21,9 @@ if (isset($_POST['serverIDCFH'])) {
   $date = date("F j, Y, g:i a");
 // SECRET: If the server ID hash matches the sha1 hash of the current server ID + the sesID + the day of the month, 
 // SECRET: we continue processing the call for help request.
+
+// / This could be modified to use a while loop instead of a bunch of if's, but this 
+  // / is easily scalable, easily definable, and easily (safely terminated).
 if ($serverIDCFH == hash('sha1', $serverID.$sesID.$day)) {
 echo nl2br("This server has requested assistance. Searching for online nodes... \r");
   $sesLogfileO = fopen("$sesLogfile", "a+");

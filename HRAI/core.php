@@ -117,8 +117,6 @@ echo nl2br("This server reports it is busy! \r");
     echo nl2br("   Activating CallForHelp! Continuing... \r");  }
 
 if ($getServBusy <= 1) {
-
-
   if (($_POST['input']) != '') {  
           $dataArr = array('user_ID' => "$user_ID",
             'display_name' => "$display_name",
@@ -252,14 +250,6 @@ $input = str_replace('  ',' ',$input);
 $input = str_replace('  ',' ',$input);
 $input = rtrim($input);
 
-// SECRET: Here we load a file containing all of the commands specific to logged-in WP users.
-if ($user_ID !== 0) {
-  if (preg_match('/sconvert file/', $input)) {
-$CMDconvfile = '/var/www/html/HRProprietary/HRAI/CoreCommands/CMDconv.php'; 
-include $CMDsyncfile; 
-$input = preg_replace('/sync node/',' ',$input);} }
-
-
 // / Here are the more complicated commands. To avoid making this script 5,000 lines long,
 // / there is a CoreCommands directory in the hosted HRAI folder (/var/www/html) for the bulk
 // / of this code. It's all really simple, no learning or research or hashing.
@@ -340,7 +330,6 @@ $input = preg_replace('/reload the nodecache/',' ',$input); }
 $input = str_replace('  ',' ',$input);
 $input = str_replace('  ',' ',$input);
 $input = rtrim($input);
-
 
 if (preg_match('/callforhelp/', $input)) {
 $CMDcfhfile = '/var/www/html/HRProprietary/HRAI/CoreCommands/CMDcfh.php'; 
@@ -774,7 +763,6 @@ $input = preg_replace('/ram info/',' ',$input); }
 $input = str_replace('  ',' ',$input);
 $input = str_replace('  ',' ',$input);
 $input = rtrim($input);
-
 
 
 

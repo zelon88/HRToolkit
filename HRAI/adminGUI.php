@@ -9,7 +9,6 @@ session_start();
 include '/var/www/html/HRProprietary/HRAI/adminINFO.php';
 
 // SECRET: The very first thing we're going to do is verify the credentials being used to log in.
-// SECRET: 
 if (isset($_POST['adunm'])) {
   $adunm = $_POST['adunm'];
   if ($adunm !== $adunm1 ) {
@@ -128,7 +127,9 @@ document.getElementById("LangPar Input").submit();
 $serverIDCFH = hash('sha1', $serverID.$sesID.$day); 
 ?>
 <div style="float: right; ">
-  <div style="float: center"><h4>CallForHelp Output:</h4></div>
+  <div style="float: center"><h4>Test Output:</h4></div>
+  <?php // / Set this iframe to whatever script you're working on for a fast and convinient way to 
+    // / Make sure everything works. ?>
   <iframe src="/HRProprietary/HRAI/ForceCallForHelp.php" name="core_iframer" width="300" height="350" scrolling="yes" margin-top:-4px; margin-left:-4px; border:double;></iframe>
   <form action="http://localhost/HRProprietary/HRAI/ForceCallForHelp.php#end" id="Corefile Input" method="post" target="core_iframer">
   <input type="hidden" name="user_ID" value="<?php echo $user_ID;?>">

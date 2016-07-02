@@ -85,8 +85,6 @@ if($sesID !== $sesIDAuth){
 $sesLogfile = ('/HRAI/sesLogs/'.$user_ID.'/'.$sesID.'/'.$sesID.'.txt'); 
 return ($sesID); }
 
-
-
 // / Get the session ID. If sesID is empty we post all vars to core.php to generate one, then post the data back
 // / for processing. 
 function getSesIDFromCore () {

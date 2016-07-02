@@ -160,6 +160,8 @@ function getRemoteData($url) {
   curl_close($ch);
   return $data; }
 
+
+// / THIS CODE NEEDS HELP!!!
 function getNode($nodeToTestURL) {
   include '/var/www/html/HRProprietary/HRAI/CallForHelp.php';
   // / Determines if a given URL contains an instance of HRAI. If it does we read and copy it's nodeCache,

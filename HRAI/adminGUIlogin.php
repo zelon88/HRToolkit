@@ -1,5 +1,9 @@
 <?php 
 
+// / LOAD THIS PAGE WITH YOUR BROUWSER AFTER FILLING OUT THE AdminInfo.php to start the HRAI Core!!!
+
+// / Enjoy !!! ;)
+
 
 session_start();
 include ('/var/www/html/HRProprietary/HRAI/adminINFO.php');
