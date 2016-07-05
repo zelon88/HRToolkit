@@ -12,17 +12,17 @@
  -// / In the event that the device could not be identified we get as close to 		
  -// / a match as we can before asking the user to install a script that will		
  -// / work to complete the identification.		
-$UA = strtolower($_SERVER['HTTP_USER_AGENT']);		  $UA = strtolower($_SERVER['HTTP_USER_AGENT']);
-$mobileArr = array('E6782', 'C811', 'Iphone', 'Ipad', 'whatever');		 +$IPad1 = strtolower('iPad; U;');
-$deskArr = array('Windows', 'Linux');		 +$IPad2and3 = strtolower('iPad; CPU');
-$mc = 0;		 +if (preg_match("/$UA/", $IPad1)) {
-foreach ($mobileArr as $mobileArrs) {		 + 
-$mobileArrs = strtolower($mobileArrs);		 +// / This file will load a static page and return a specified div.
-if (preg_match("/$mobileArrs/", $UA)) {		 +// / The strings for $divStart and $divEnd must by IDENTICAL to the
-$mc++;		 +// / way they are displayed in the $divLocation. 
-include('/Libraries/'.$mobileArrs.'.php'); } }		 +
-if ($mc < 1) {		 +$divLocation = file_get_contents('https://en.wikipedia.org/wiki/IPad_(1st_generation)#cite_note-AppleIPadSpecs-1');
-foreach ($deskArr as $desktopArrs) {		 +$divStart = '{?><table class=infobox hproduct vevent"<?php}';
-$desktopArrs = strtolower($desktopArrs);		 +$divEnd = '{?></table><?php}';
-if (preg_match("/$desktopArrs/", $UA)) {		 +$delimiter = '#';
- include('/Libraries/'.$desktopArrs.'.php'); } } }
+$UA = strtolower($_SERVER['HTTP_USER_AGENT']);
+$mobileArr = array('E6782', 'C811', 'Iphone', 'Ipad', 'whatever');
+$deskArr = array('Windows', 'Linux');
+$mc = 0;		
+foreach ($mobileArr as $mobileArrs) {		 
+$mobileArrs = strtolower($mobileArrs);		 
+if (preg_match("/$mobileArrs/", $UA)) {	
+$mc++;	
+include('/Libraries/'.$mobileArrs.'.php'); } }	
+if ($mc < 1) {	
+foreach ($deskArr as $desktopArrs) {		
+$desktopArrs = strtolower($desktopArrs);	
+if (preg_match("/$desktopArrs/", $UA)) {	
+include('/Libraries/'.$desktopArrs.'.php'); } } }
