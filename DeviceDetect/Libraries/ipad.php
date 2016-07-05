@@ -2,7 +2,7 @@
 $UA = strtolower($_SERVER['HTTP_USER_AGENT']);
 $IPad1 = strtolower('iPad; U;');
 $IPad2and3 = strtolower('iPad; CPU');
-if (preg_match("/$UA/", $IPad1)) {
+if (preg_match("/$IPad1/", $UA)) {
  
 // / This file will load a static page and return a specified div.
 // / The strings for $divStart and $divEnd must by IDENTICAL to the
@@ -21,7 +21,7 @@ preg_match($divData,$divLocation,$div1);
 $div = $div1[0];
 // / Look ma, no CuRL!
 echo $div; }
-if (preg_match("/$UA/", $IPad2and3)) { ?>
+if (preg_match("/$IPad1/", $UA)) { ?>
 <script type="text/javascript">// < ![CDATA[
 if (screen.width = 768) { 
 // ]]>
