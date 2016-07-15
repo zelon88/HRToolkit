@@ -184,7 +184,7 @@ while($row = sqlsrv_fetch_array( $stmt, SQLSRV_FETCH_ASSOC) ) {
     	if ($SORestRaw !== '') {
     	  $SOLineNum = $SORestRaw; }
     	if ($SORestRaw == '') {
-    	  $SOLineNum = '1'; } } }
+    	  $SOLineNum = '1'; } } } }
 
 if ($SOSuf == '') {
   $CleanSuf = ''; }
@@ -232,7 +232,7 @@ foreach ($ActionFiles as $ActionFile) {
     $PathName = ($InputLoc.'/'.$F1.'.'.$F2);
     $NEWFileName = ($F1.'.'.$F2);
     $NEWPathName = $ActionLoc.'/'.$NEWFileName;
-    $COPY_IT = rename($PathName, $NEWPathName); } } } 
+    $COPY_IT = rename($PathName, $NEWPathName); } } }  
 
 $BALANCEFileCount = count(glob("$InputLoc/*"));
 if (($BALANCEFileCount) == 0 ) {
@@ -245,7 +245,6 @@ if (($BALANCEFileCount) > 0 ) {
     $LogFile = file_put_contents($SesLogDir.'/'.$Date.'_'.$LogInc.'.txt', $txt.PHP_EOL , FILE_APPEND); 
   echo nl2br("\n".'Control Operation Complete! Processed '.$FileCount.' files and left '.
     $BALANCEFileCount.' action items that still require attention on '.$Time.'. DC159. '."\n\n"); ?><hr /> <?php } 
-
 ?>
 </div>
     <div id='end' name='end' class="end"></div>
